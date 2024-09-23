@@ -1,7 +1,9 @@
+[![MasterHead](https://raw.githubusercontent.com/smit-savaliya-dev/smit-savaliya-dev/main/cover.gif)](https://github.com/smit-savaliya-dev)
+
 <h1 align="center">Hi 👋, I'm Smit Savaliya</h1>
 <h3 align="center">Flutter App Developer | Android & iOS Expert | 3+ Years of Experience</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smitsavaliya285&label=Profile%20views&color=0e75b6&style=flat" alt="smitsavaliya285" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=smit-savaliya-dev&label=Profile%20views&color=0e75b6&style=flat" alt="smitsavaliya285" /> </p>
 
 - 🌱 I’m currently learning **Emerging technologies in mobile app development, Flutter updates**
 
