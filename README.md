@@ -37,7 +37,6 @@ I'm open to roles across:
 - 🎓 Currently: **MSc Data Analytics** — National College of Ireland
 - 🏆 Previously: **BSc IT** — Sarvajanik University, India (8.43/10 CGPA)
 - 🌍 Based in **Dublin, Ireland**
-- ⚡ Fun fact: I think I am funny.
 
 ---
 
@@ -93,52 +92,6 @@ I'm open to roles across:
 
 ---
 
-## 🚀 Featured Projects
-
-> Projects I'm proud of — pinned repos below have the full code & docs.
-
-### 📊 US Tech Workforce Gap — ETL Pipeline & Analytics Dashboard
-`Python` `PostgreSQL` `MongoDB` `Streamlit` `Docker` `Star Schema`
-
-End-to-end ETL pipeline merging 3 U.S. government datasets (89K+ raw records) into a star-schema data warehouse. Interactive choropleth dashboard revealing workforce gaps and wage disparities across 50 states.
-
----
-
-### 🤖 Cross-Market Investment Prediction (Shark Tank & Dragons' Den)
-`Scikit-learn` `XGBoost` `SMOTE` `Stratified K-Fold` `Hypothesis Testing`
-
-ML pipeline across 3,743 investor pitch records from 3 markets. Trained 4 classifiers per market, ran 9-combination cross-market transfer experiments. Best model: **F1 = 0.926 / AUC = 0.944**.
-
----
-
-### 💳 Credit Card Fraud Detection & Scheduling Optimisation
-`Scikit-learn` `PuLP` `Genetic Algorithm` `Integer Programming`
-
-Cost-optimised fraud detector on 284K imbalanced transactions — **ROC-AUC 0.9711**, 53% daily cost reduction. Plus a from-scratch Genetic Algorithm matching IP-optimal solutions with 0% optimality gap.
-
----
-
-### 📱 Production Mobile Apps (12+ Delivered)
-`Flutter` `Firebase` `REST APIs` `Stripe` `Razorpay` `Google Maps`
-
-Delivered apps across e-commerce, ride-hailing, EdTech, health & fitness, dating, and booking domains. Backends handling 10K+ daily transactions and 50K+ active users.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smit-savaliya-dev&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smit-savaliya-dev&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smit-savaliya-dev&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 💬 Let's Connect
 
 I'm actively open to opportunities in **software engineering, mobile development, data engineering, and data analytics**. Feel free to reach out — always happy to chat.
@@ -147,7 +100,6 @@ I'm actively open to opportunities in **software engineering, mobile development
   <a href="https://linkedin.com/in/smit-savaliyaa"><b>LinkedIn</b></a> &nbsp;·&nbsp;
   <a href="mailto:smitsavaliya285@gmail.com"><b>Email</b></a> &nbsp;·&nbsp;
   <a href="https://stackoverflow.com/users/21473202"><b>Stack Overflow</b></a> &nbsp;·&nbsp;
-  <a href="https://instagram.com/i_._smit"><b>Instagram</b></a>
 </p>
 
 <div align="center">
