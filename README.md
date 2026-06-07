@@ -1,36 +1,155 @@
-[![MasterHead](https://raw.githubusercontent.com/smit-savaliya-dev/smit-savaliya-dev/main/cover.gif)](https://github.com/smit-savaliya-dev)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/smit-savaliya-dev/smit-savaliya-dev/main/cover.gif" alt="Banner" width="100%" />
+</div>
 
-<h1 align="center">Hi 👋, I'm Smit Savaliya</h1>
-<h3 align="center">Flutter App Developer | Android & iOS Expert | 3+ Years of Experience</h3>
+<h1 align="center">Hey there, I'm Smit Savaliya 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smit-savaliya-dev&label=Profile%20views&color=0e75b6&style=flat" alt="smitsavaliya285" /> </p>
-
-- 🌱 I’m currently learning **Emerging technologies in mobile app development, Flutter updates**
-
-- 👯 I’m looking to collaborate on **Mobile app development projects.**
-
-- 🤝 I’m looking for help with **Integration of advanced features or performance optimization in Flutter apps**
-
-- 👨‍💻 All of my projects are available at [https://github.com/smitsavaliya285/smitsavaliya285/blob/main/Smit-Savaliya-CV.pdf](https://github.com/smitsavaliya285/smitsavaliya285/blob/main/Smit-Savaliya-CV.pdf)
-
-- 💬 Ask me about **Flutter, React Native, mobile app development**
-
-- 📫 How to reach me **smitsavaliya285@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/smitsavaliya285/smitsavaliya285/blob/main/Smit-Savaliya-CV.pdf](https://github.com/smitsavaliya285/smitsavaliya285/blob/main/Smit-Savaliya-CV.pdf)
-
-- ⚡ Fun fact **I think I am funny!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/smit-savaliya-349a47253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smit-savaliya-349a47253" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21473202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21473202" height="30" width="40" /></a>
-<a href="https://instagram.com/i_._smit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_._smit" height="30" width="40" /></a>
+<p align="center">
+  <b>Software Engineer &nbsp;|&nbsp; Mobile App Developer &nbsp;|&nbsp; Data Engineer & Analyst</b><br/>
+  <sub>MSc Data Analytics @ National College of Ireland, Dublin 🇮🇪</sub>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/smit-savaliyaa"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  &nbsp;
+  <a href="mailto:smitsavaliya285@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://stackoverflow.com/users/21473202"><img src="https://img.shields.io/badge/Stack%20Overflow-Profile-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=smit-savaliya-dev&style=for-the-badge&color=0e75b6" alt="profile views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smitsavaliya285&show_icons=true&locale=en&layout=compact" alt="smitsavaliya285" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smitsavaliya285&show_icons=true&locale=en" alt="smitsavaliya285" /></p>
+## 🧑‍💻 About Me
+
+I'm a software engineer with **3+ years of production experience** now deepening into data engineering and analytics. I've shipped mobile apps used by **50,000+ users**, built pipelines handling **10,000+ daily transactions**, and tracked **500K+ monthly analytics events** — and I bring that same end-to-end mindset to data work.
+
+I'm open to roles across:
+
+| 💼 Role | What I bring |
+|---|---|
+| **Software Engineer** | Full-cycle development, system architecture, API design |
+| **Mobile App Developer** | Flutter, React Native, Android & iOS — production-grade apps |
+| **Data Engineer** | ETL pipelines, multi-database systems, cloud & Docker |
+| **Data Analyst** | ML models, statistical analysis, dashboards (Tableau, Power BI, Streamlit) |
+
+- 🎓 Currently: **MSc Data Analytics** — National College of Ireland
+- 🏆 Previously: **BSc IT** — Sarvajanik University, India (8.43/10 CGPA)
+- 🌍 Based in **Dublin, Ireland**
+- ⚡ Fun fact: I think I am funny.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+
+**Data & ML**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-4599C4?style=flat-square)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Visualisation & BI**
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
+**Databases & Cloud**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS%20Amplify-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**Mobile & Frameworks**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+> Projects I'm proud of — pinned repos below have the full code & docs.
+
+### 📊 US Tech Workforce Gap — ETL Pipeline & Analytics Dashboard
+`Python` `PostgreSQL` `MongoDB` `Streamlit` `Docker` `Star Schema`
+
+End-to-end ETL pipeline merging 3 U.S. government datasets (89K+ raw records) into a star-schema data warehouse. Interactive choropleth dashboard revealing workforce gaps and wage disparities across 50 states.
+
+---
+
+### 🤖 Cross-Market Investment Prediction (Shark Tank & Dragons' Den)
+`Scikit-learn` `XGBoost` `SMOTE` `Stratified K-Fold` `Hypothesis Testing`
+
+ML pipeline across 3,743 investor pitch records from 3 markets. Trained 4 classifiers per market, ran 9-combination cross-market transfer experiments. Best model: **F1 = 0.926 / AUC = 0.944**.
+
+---
+
+### 💳 Credit Card Fraud Detection & Scheduling Optimisation
+`Scikit-learn` `PuLP` `Genetic Algorithm` `Integer Programming`
+
+Cost-optimised fraud detector on 284K imbalanced transactions — **ROC-AUC 0.9711**, 53% daily cost reduction. Plus a from-scratch Genetic Algorithm matching IP-optimal solutions with 0% optimality gap.
+
+---
+
+### 📱 Production Mobile Apps (12+ Delivered)
+`Flutter` `Firebase` `REST APIs` `Stripe` `Razorpay` `Google Maps`
+
+Delivered apps across e-commerce, ride-hailing, EdTech, health & fitness, dating, and booking domains. Backends handling 10K+ daily transactions and 50K+ active users.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=smit-savaliya-dev&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smit-savaliya-dev&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smit-savaliya-dev&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 💬 Let's Connect
+
+I'm actively open to opportunities in **software engineering, mobile development, data engineering, and data analytics**. Feel free to reach out — always happy to chat.
+
+<p align="center">
+  <a href="https://linkedin.com/in/smit-savaliyaa"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="mailto:smitsavaliya285@gmail.com"><b>Email</b></a> &nbsp;·&nbsp;
+  <a href="https://stackoverflow.com/users/21473202"><b>Stack Overflow</b></a> &nbsp;·&nbsp;
+  <a href="https://instagram.com/i_._smit"><b>Instagram</b></a>
+</p>
+
+<div align="center">
+  <sub>📍 Dublin, Ireland &nbsp;|&nbsp; Open to remote & relocation</sub>
+</div>
